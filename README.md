@@ -1,6 +1,6 @@
 # CodeAlpha_Task2
 
-# 🇮🇳 Unemployment Analysis in India
+# Unemployment Analysis in India
 
 This project analyzes unemployment trends in India using real-world data sourced from Kaggle. The aim is to explore, visualize, and gain insights into how unemployment rates vary over time, across different regions and demographic categories.
 
